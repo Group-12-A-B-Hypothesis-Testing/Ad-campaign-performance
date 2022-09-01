@@ -1,4 +1,6 @@
 [core]
-    remote = dvc-reemote
+    remote = dvc-remote
 ['remote "dvc-reemote"']
     url = C:/Users/KAMUZI~1.EGI/AppData/Local/Temp/-storage
+['remote "dvc-remote"']
+    url = C:/Users/KAMUZI~1.EGI/AppData/Local/Temp/dvc-storage
